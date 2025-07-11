@@ -1,0 +1,8 @@
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\bin\Debug\Homework_11_07_2025.exe.config
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\bin\Debug\Homework_11_07_2025.exe
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\bin\Debug\Homework_11_07_2025.pdb
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\obj\Debug\Homework_11_07_2025.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\obj\Debug\Homework_11_07_2025.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\obj\Debug\Homework_11_07_2025.exe
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\obj\Debug\Homework_11_07_2025.pdb
+C:\Users\efepa\source\repos\Homework_11_07_2025\Homework_11_07_2025\obj\Debug\Homework_11_07_2025.exe.config
